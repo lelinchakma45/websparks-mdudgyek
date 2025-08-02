@@ -140,7 +140,7 @@ function App() {
   };
 
   return (
-    <div className="h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900 flex overflow-hidden font-inter">
+    <div className="h-screen bg-gradient-to-br from-red-900 via-red-800 to-red-700 flex overflow-hidden font-inter">
       {/* Sidebar */}
       <Sidebar
         isOpen={sidebarOpen}
